@@ -7,10 +7,10 @@ Previous Project: Emergency Care Multi-Agent System
 I previously worked on an agentic AI application designed for emergency medical support when a human doctor is not immediately available. The system simulated multiple specialized agents to analyze patient information and suggest preliminary actions until professional medical help could be reached.
 
 Agent Roles
-Vitals Analysis Agent – Interpreted basic vitals such as heart rate, blood pressure, and temperature.
-Symptom Interpretation Agent – Parsed user-reported symptoms and contextual information.
-Risk Assessment Agent – Estimated severity and urgency of the situation.
-Recommendation Agent – Suggested immediate steps and escalation to medical professionals.
+Vitals Analysis Agent: Interpreted basic vitals such as heart rate, blood pressure, and temperature.
+Symptom Interpretation Agent: Parsed user-reported symptoms and contextual information.
+Risk Assessment Agent: Estimated severity and urgency of the situation.
+Recommendation Agent: Suggested immediate steps and escalation to medical professionals.
 
 Key Learnings
 Importance of agent role specialization and task decomposition
@@ -18,7 +18,7 @@ Coordination logic between agents for consistent decisions
 Limitations of LLM-based reasoning in safety-critical domains
 Need for human-in-the-loop validation in high-risk scenarios
 
-Current Project: Veritas – Misinformation Risk Prediction System
+Current Project:- Veritas: Misinformation Risk Prediction System
 For my current hackathon project, I am building Veritas, a multi-agent AI system for detecting and mitigating misinformation.
 
 Core Idea
@@ -45,3 +45,5 @@ I plan to:
 Implement Veritas as a full-stack system with a dashboard for misinformation tracking
 Experiment with agent memory, self-reflection, and self-improvement loops
 Publish technical write-ups and code for agent architectures
+
+This repository is a living document and will be updated with implementations and experiments during and after hackathons.
